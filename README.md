@@ -1,1 +1,4 @@
-# diario-de-bordo
+# Diário de bordo
+este é meu diário de aprendizagem
+
+## Aulas
