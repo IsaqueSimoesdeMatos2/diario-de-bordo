@@ -5,4 +5,4 @@ este é meu diário de aprendizagem
 
 [primeira aula:](https://github.com/IsaqueSimoesdeMatos2/diario-de-bordo/blob/main/aulas/aula-01.md)
 
-[segunda aula:](
+[segunda aula:](https://github.com/IsaqueSimoesdeMatos2/diario-de-bordo/blob/main/aulas/aula-02.md)
